@@ -4,18 +4,19 @@
 
 | Call Sign | Have POD |        Own TNC   | Used Winlink | Used APRS Message |
 | :-------: | :------: |    ------------- | ------------ | :-----------------: |
+|   __LOPEZ__  |      |    |  |   |
 |   K7KCA   |   No     |  DRAWS @ office  | VHF - yes, HF - no |  Yes  |
 |   K7BLS   |   Yes    |  DRAWS        |    VHF/HF    |   Yes   |
 |   AF4PM   |   Yes    |   Yes         |    VHF/HF    |   Yes   |
 |   N7TAU   |   Yes    |   Yes         |    VHF/HF    |   Yes   |
 |   N7NIX   |   Yes    |  DRAWS/KPC3+/PK-96 |  VHF only  |  Yes  |
-|           |          |               |              |         |
+|   __SAN JUAN__        |          |               |              |         |
 |  KD7TUN   |   No     |  Kam          |    VHF (Airmail)  |   No  |
 |  K9QJS    |   Yes    |  DRAWS        |   VHF/HF   |   Yes  |
 |  K7UDR    |   No     |  Yes          |   VHF      |   No   |
 |  KK7TX    |   No     |  Sound Card   |   VHF/Telenet  | No
 |  N7TZW    |   No     |  Yes          |   Telnet only |  Yes |
-|           |          |               |              |         |
+|  __ORCAS__   |          |               |              |         |
 |  WA6MPG   |  Yes     |  Multimode    |   Yes        |  No  |
 
 
