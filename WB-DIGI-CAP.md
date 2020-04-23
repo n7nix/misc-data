@@ -5,11 +5,11 @@
 | Call Sign | Have POD |        Own TNC   | Used Winlink | Used APRS Message |
 | :-------: | :------: |    ------------- | ------------ | :-----------------: |
 |   __LOPEZ__  |      |    |  |   |
-|   K7KCA   |   No     |  DRAWS @ office  | VHF only |  Yes  |
-|   K7BLS   |   Yes    |  DRAWS        |    VHF/HF    |   Yes   |
-|   AF4PM   |   Yes    |   Yes         |    VHF/HF    |   Yes   |
-|   N7TAU   |   Yes    |   Yes         |    VHF/HF    |   Yes   |
-|   N7NIX   |   Yes    |  DRAWS/KPC3+/PK-96 |  VHF only  |  Yes  |
+|   K7KCA   |   No     |  DRAWS @ office  | VHF only    |  Yes   |
+|   K7BLS   |   Yes    |  DRAWS        |    VHF/Telnet  |  Yes   |
+|   AF4PM   |   Yes    |   Yes         |    VHF/HF      |  Yes   |
+|   N7TAU   |   Yes    |   Yes         |    VHF/HF      |  Yes   |
+|   N7NIX   |   Yes    |  DRAWS/KPC3+/PK-96 |  VHF/HF (ardop) |  Yes   |
 |   __SAN JUAN__        |          |               |              |         |
 |  KD7TUN   |   No     |  Kam          |    VHF (Airmail)  |   No  |
 |  K9QJS    |   Yes    |  DRAWS        |   VHF/HF   |   Yes  |
@@ -21,7 +21,8 @@
 
 
 ### White Box Drill
-##### POD to gather information on digital capabilities, Lopez Is. Net Control
+##### POD to gather information on digital capabilities
+* Net Control N7NIX, Lopez Is.
 
 ###### Check-in
 * Gather call signs on CADY11
