@@ -1,0 +1,41 @@
+##### MSG#330 04/27/2020 21:14:26 FROM WA6MPG TO SJCACS
+##### SUBJECT: White Box EX 200428
+##### PATH: N7JN
+
+This exercise is to practice connecting to stations through a NODE when direct
+packet connection is not possible.  IMPORTANT WA. FREQS. is a new frequency
+list available on the MPGBBS on NET-16 in Eastsound. Please connect and download
+it at your leisure. The following instrux are also available on the JNBBS.
+
+##### How to get to the MPGBBS:
+
+###### Connect to the ORCAS node and it will relay to MPGBBS for you like this:
+```
+<c orcas> (enter)
+```
+##### Response from ORCAS:
+```
+*** CONNECTED to ORCAS
+###CONNECTED TO WILD NODE ORCAS(N7JN-11) CHANNEL A
+ENTER COMMAND: B,C,J,N, or Help ?
+```
+You are now on the ORCAS node and can use it to relay to any other station
+on NET-16.
+
+###### Connect to MPGBBS
+ ```<c mpgbbs> (enter)```
+
+##### Response from MPGBBS:
+
+```###LINK MADE.......followed by the MPGBBS welcome message.```
+
+You're in the MPGBBS!
+
+* The command set on MPGBBS is the same as those used on JNBBS so they should be
+familiar
+  * type  ```<h>```  for the help list if needed.
+* When you are finished send ```<b>``` to disconnect from both the MPGBBS and the ORCAS node.
+
+-mpg
+
+
